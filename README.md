@@ -19,7 +19,7 @@ Use any Google Web Font. Defaults to Gentium Book.
 
 [upamanyu.in/lipi](http://upamanyu.in/lipi)
 
-[View on Tumblr Themes](http://www.tumblr.com/theme/37112)
+[View on Tumblr Themes](http://www.tumblr.com/theme/37077)
 
 
 ## How to switch Google Web Fonts in Tumblr
